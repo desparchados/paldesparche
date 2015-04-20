@@ -14,11 +14,11 @@
 		<string>https://github.com/desparchados/paldesparche.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Mobile/iOS/Paldesparche/Paldesparche.xcodeproj</string>
+	<string>Source Code/Mobile/iOS/Paldesparche/Paldesparche.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A73CE2F2B2DF71466601C21BD13883585E7542DD</key>
-		<string>../../../../..</string>
+		<string>../../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/desparchados/paldesparche.git</string>
